@@ -1,4 +1,4 @@
-# A/B Test Statistical Methods - MW and Bootstrap methods on testing revenue metric
+### A/B Test Statistical Methods - MW and Bootstrap methods on testing revenue metric
 
 Overview
 
